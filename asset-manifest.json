@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Infoskjerm-kurs/static/css/main.c0282195.chunk.css",
+    "main.js": "/Infoskjerm-kurs/static/js/main.9842e22f.chunk.js",
+    "main.js.map": "/Infoskjerm-kurs/static/js/main.9842e22f.chunk.js.map",
+    "runtime-main.js": "/Infoskjerm-kurs/static/js/runtime-main.424a4c8e.js",
+    "runtime-main.js.map": "/Infoskjerm-kurs/static/js/runtime-main.424a4c8e.js.map",
+    "static/js/2.734a2fd6.chunk.js": "/Infoskjerm-kurs/static/js/2.734a2fd6.chunk.js",
+    "static/js/2.734a2fd6.chunk.js.map": "/Infoskjerm-kurs/static/js/2.734a2fd6.chunk.js.map",
+    "index.html": "/Infoskjerm-kurs/index.html",
+    "precache-manifest.93b238bfec96669c4edf9f725336b60d.js": "/Infoskjerm-kurs/precache-manifest.93b238bfec96669c4edf9f725336b60d.js",
+    "service-worker.js": "/Infoskjerm-kurs/service-worker.js",
+    "static/css/main.c0282195.chunk.css.map": "/Infoskjerm-kurs/static/css/main.c0282195.chunk.css.map",
+    "static/js/2.734a2fd6.chunk.js.LICENSE.txt": "/Infoskjerm-kurs/static/js/2.734a2fd6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Infoskjerm-kurs/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.424a4c8e.js",
+    "static/js/2.734a2fd6.chunk.js",
+    "static/css/main.c0282195.chunk.css",
+    "static/js/main.9842e22f.chunk.js"
+  ]
+}
